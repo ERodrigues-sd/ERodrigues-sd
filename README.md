@@ -16,7 +16,7 @@
   width="18"
   height="18"
   style="border-radius: 10px;"
-  /><a href="https://www.google.com/maps/place/Contágio+-+Agência+Criativa](https://maps.app.goo.gl/bMmN3fbg1uEMMQCS9" target="_blank">
+  /><a href="https://maps.app.goo.gl/bMmN3fbg1uEMMQCS9" target="_blank">
 Ver localização da empresa
 </a> 
 
