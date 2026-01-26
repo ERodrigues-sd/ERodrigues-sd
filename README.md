@@ -13,9 +13,9 @@
 > I am currently starting my professional career at the creative agency – <strong>Contágio</strong>.
 
 <img src="https://scontent.fopo4-1.fna.fbcdn.net/v/t39.30808-1/322961334_543707621132700_1331303826108402663_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=6ZP9irupqHEQ7kNvwFECx2z&_nc_oc=AdnHFW3P5l78Q3ymQYFc_iJ3AJi_uojKl4d8ECZ2b5NRWbhdF7q1SHhCEE-qJjVuD70&_nc_zt=24&_nc_ht=scontent.fopo4-1.fna&_nc_gid=P3MmDKuK1tFCOjXg50LA6w&oh=00_AfqG-hnDCQFec3WQSxlKxTeZ4UG4DOKkEjW6skOYUDKWbg&oe=697C8BE7"
-  width="18"
-  height="18"
-  style="border-radius: 10px;"
+  width="30"
+  height="30"
+  style="border-radius: 20px;"
   /><a href="https://maps.app.goo.gl/bMmN3fbg1uEMMQCS9" target="_blank">
 Ver localização da empresa
 </a> 
