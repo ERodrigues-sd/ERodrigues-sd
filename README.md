@@ -22,24 +22,24 @@ Ver localização da empresa
 
 ---
 
-<h1 style="aling: center;"> What am I learning? </h1>
-<p align="left">
+<h1 align="center"> What am I learning? </h1>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,python,c,java,figma,wordpress" />
   </a>
 </p>
-<table>
+<table align="center">
   <tr>
     <td>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api?username=ERodrigues-sd&theme=highcontrast&hide_border=true&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERodrigues-sd&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
@@ -47,8 +47,15 @@ Ver localização da empresa
   </tr>
 </table>
 
-# Connect with me
-<p align="left">
+<h1 align="center">What I intend to learn and specialize in</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,bots,gamemakerstudio,ai" />
+  </a>
+</p>
+
+<h1 align="center"> Connect with me</h1>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gmail,instagram" />
   </a>
