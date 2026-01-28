@@ -22,12 +22,12 @@ Ver localização da empresa
 
 ---
 
-<h1 aling="center">
- What am I studying?
-</h1>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,java,figma,wordpress)](https://skillicons.dev)
-
+<h1 style="aling: center;"> What am I learning? </h1>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,c,java,figma,wordpress" />
+  </a>
+</p>
 <table>
   <tr>
     <td>
