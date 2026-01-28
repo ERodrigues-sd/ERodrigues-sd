@@ -26,7 +26,7 @@ Ver localização da empresa
  What am I studying?
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,java,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,java,figma,wordpress)](https://skillicons.dev)
 
 <table>
   <tr>
