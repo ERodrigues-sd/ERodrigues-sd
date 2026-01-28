@@ -24,7 +24,7 @@ Ver localização da empresa
 
 <h1 aling="center"> What am I studying?</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,java,figma)](https://skillicons.dev)
 
 <table>
   <tr>
@@ -44,3 +44,10 @@ Ver localização da empresa
     </td>
   </tr>
 </table>
+
+# Connect with me
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail,instagram" />
+  </a>
+</p>
