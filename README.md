@@ -22,7 +22,9 @@ Ver localização da empresa
 
 ---
 
-<h1 aling="center"> What am I studying?</h1>
+<h1 aling="center">
+ What am I studying?
+</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,java,figma)](https://skillicons.dev)
 
@@ -46,7 +48,7 @@ Ver localização da empresa
 </table>
 
 # Connect with me
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gmail,instagram" />
   </a>
