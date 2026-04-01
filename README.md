@@ -12,15 +12,12 @@
 > [!IMPORTANT]
 > I am currently starting my professional career at the creative agency – <strong>Contágio</strong>.
 
-<img src="https://www.google.com/imgres?q=contagio%20agencia%20criativa&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FC4D0BAQG_9KNo7aQlXA%2Fcompany-logo_200_200%2Fcompany-logo_200_200%2F0%2F1676286157014%2Fcontagio_logo%3Fe%3D2147483647%26v%3Dbeta%26t%3DXLEoOK3jUCfR6yhlQmhmYmchXrJYBDnbDCIC_z28d1o&imgrefurl=https%3A%2F%2Fpt.linkedin.com%2Fcompany%2Fcontagio&docid=YIopVt62DCeaTM&tbnid=ByUEszRE6d7fDM&vet=12ahUKEwjf76OVscqTAxUSRaQEHcEHJQ8QnPAOegQIHBAB..i&w=200&h=200&hcb=2&ved=2ahUKEwjf76OVscqTAxUSRaQEHcEHJQ8QnPAOegQIHBAB"
-  width="30"
-  height="30"
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVKqL0aq2tXI74yj8UWAq5DugBY6g3j2lr7A&s"
   style="border-radius: 20px;"/>
-  <a href="https://maps.app.goo.gl/bMmN3fbg1uEMMQCS9" target="_blank">
-Ver localização da empresa
-</a> 
-
----
+  
+  <a aling="center" href="https://maps.app.goo.gl/bMmN3fbg1uEMMQCS9" target="_blank"> Ver localização da empresa </a> 
+  
+  ---
 
 <h1 align="center"> What am I learning? </h1>
 <p align="center">
@@ -28,24 +25,6 @@ Ver localização da empresa
     <img src="https://skillicons.dev/icons?i=js,html,css,python,c,java,figma,wordpress" />
   </a>
 </p>
-<table align="center">
-  <tr>
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ERodrigues-sd&theme=highcontrast&hide_border=true&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERodrigues-sd&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
 
 <h1 align="center">What I intend to learn and specialize in</h1>
 <p align="center">
